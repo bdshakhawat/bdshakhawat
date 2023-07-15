@@ -16,7 +16,7 @@ const Aqurds = {
     LOOKING FOR: "Frontend rule"
     STUDENT@: [Educative],
     HOBBIES: ["Solving coding challenges", Teaching],
-    TECH STACK:["JavaScript", React, Redux, Next],
+    TECH STACK:["JavaScript", React, Redux, Next,Prisma],
     TOOLS: ["Docker", DockerCompose, "Github", Gitlab],
     SERVER: ["AWS", GCP, Heroku, DigitalOcean],
     DATABASE: ["MySQL", PostgreSQL, MongoDB, DynamoDB],
