@@ -1,25 +1,61 @@
-### Hi there, I'm Sumon 👋
+# Hi, I'm Muhammad Shakhawat Hossain 👋
 
+## Physics Educator | Physics AI Trainer / SME | Prompt Engineering & AI Evaluation
 
-A software engineer who is passionate about building websites and web apps, making contributions to open-source, and public speaking. Some technologies I enjoy working with includes React, Next, Tailwind, MaterialUI, Redux, JavaScript, Bootstrap, wordpress theme development.
+I am an **M.Sc. Physics professional with 15 years of high-school Physics teaching experience**, currently developing expertise at the intersection of **Physics, Generative AI, Prompt Engineering, and AI Evaluation**.
 
-<img src = "https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" style="width: 300px">
+My goal is to combine deep Physics and teaching experience with AI skills to help build **accurate, reliable, and educationally useful AI systems for Physics**.
 
-# 💫About Me :
+---
 
-```javascript
-const Aqurds = {
-    FULLNAME: Shakhawat Hossain,
-    PRONOUNCE: ["He", Him],
-    NATIONALITY: "Dhaka, Bangladesh",
-    CURRENTLY LEARNING: React, DSA & Problem solving.
-    LOOKING FOR: "Frontend rule"
-    STUDENT@: [Educative],
-    HOBBIES: ["Solving coding challenges", Teaching],
-    TECH STACK:["JavaScript", React, Redux, Next,Prisma],
-    TOOLS: ["Docker", DockerCompose, "Github", Gitlab],
-    SERVER: ["AWS", GCP, Heroku, DigitalOcean],
-    DATABASE: ["MySQL", PostgreSQL, MongoDB, DynamoDB],
-    TELEPHONE: "+8801671917473",
-}
-```
+# 💫 About Me
+
+I have spent 15 years teaching Physics to high-school students, including teaching the **English Version of the National Curriculum in English**.
+
+My teaching experience has given me a strong understanding of:
+
+- Physics concepts and problem solving
+- Common student misconceptions
+- Scientific reasoning
+- Curriculum-aligned explanation
+- Communicating complex ideas clearly
+- Evaluating whether an explanation is scientifically and pedagogically appropriate
+
+I am now applying this domain expertise to **Generative AI and AI evaluation**, with a long-term goal of working as a **Physics AI Trainer / Subject Matter Expert**.
+
+---
+
+# 🎯 Current Career Focus
+
+I am currently preparing for opportunities such as:
+
+- Physics AI Subject Matter Expert (SME)
+- Physics AI Trainer
+- Physics AI Evaluator
+- Physics AI Content Specialist
+- AI Response Evaluator
+- AI Training / Data Quality Specialist
+- AI-assisted Physics Education Specialist
+
+---
+
+# 🧠 My AI Learning Journey
+
+My current development path is:
+
+```text
+M.Sc. Physics
+      ↓
+15 Years Physics Teaching
+      ↓
+Generative AI Foundations
+      ↓
+Prompt Engineering
+      ↓
+AI Response Evaluation
+      ↓
+Physics AI Training
+      ↓
+Physics AI Subject Matter Expertise
+      ↓
+RAG + AI Automation + Agentic AI
